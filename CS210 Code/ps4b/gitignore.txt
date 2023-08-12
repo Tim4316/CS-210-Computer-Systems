@@ -1,0 +1,10 @@
+*~
+*.resbin
+*.o
+*.map
+*.lst
+ortest
+andtest
+sumtest
+.ipynb_checkpoints
+*.json
